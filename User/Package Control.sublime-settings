@@ -1,9 +1,12 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Grunt",
 		"Jade",
+		"Markdown Extended",
+		"Origami",
 		"Package Control",
-		"sublime-jslint"
+		"SublimeLinter"
 	]
 }

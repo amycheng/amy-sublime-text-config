@@ -8,5 +8,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-	]
+	],
+	"show_full_path": true
 }
