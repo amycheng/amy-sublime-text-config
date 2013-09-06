@@ -1,0 +1,9 @@
+{
+	"installed_packages":
+	[
+		"Grunt",
+		"Jade",
+		"Package Control",
+		"sublime-jslint"
+	]
+}

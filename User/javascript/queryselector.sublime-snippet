@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+document.querySelector('${1: selectors}')
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>queryselect</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.JavaScript</scope> -->
+</snippet>

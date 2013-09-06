@@ -1,0 +1,5 @@
+{
+	"jslint_options": " --debug --white --sloppy --browser --predef $,console",
+	"run_on_save": true
+
+}
