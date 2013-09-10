@@ -1,6 +1,6 @@
 [
 	//multiselection
-	{ "keys": ["super+right"], "command": "find_under_expand" },
+	{ "keys": ["super+shift+right"], "command": "find_under_expand" },
 	//GUI stuff
 		{ "keys": ["ctrl+n"], "command": "toggle_side_bar" }
 ]
