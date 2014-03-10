@@ -1,14 +1,18 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "wide",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"enable_live_count": true,
 	"fade_fold_buttons": false,
 	"font": "Source Code Pro",
 	"font_size": 14.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"AAAPackageDev"
 	],
 	"show_full_path": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

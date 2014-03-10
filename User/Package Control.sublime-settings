@@ -2,12 +2,26 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AngularJS",
+		"BracketHighlighter",
+		"Craft-Twig",
+		"Dracula Color Scheme",
 		"Git",
+		"Grasp",
 		"Grunt",
+		"Handlebars",
+		"HTML Mustache",
 		"Jade",
+		"Jade Snippets",
+		"LESS",
 		"Markdown Extended",
+		"Monokai Extended",
 		"Origami",
 		"Package Control",
-		"SublimeLinter"
+		"Sass",
+		"sublimelint",
+		"SublimeLinter",
+		"Surround",
+		"WordCount"
 	]
 }

@@ -1,9 +1,16 @@
 <snippet>
 	<content><![CDATA[
-document.querySelector('${1: selectors}')
+(function(\$){
+	${1}
+}(jQuery));
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>queryselect</tabTrigger>
+	<tabTrigger>closure</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.JavaScript</scope> -->
+	<!-- <scope>source.javascript</scope> -->
 </snippet>
+
+<!-- (function ($) {
+${1}
+}(jQuery));
+ -->

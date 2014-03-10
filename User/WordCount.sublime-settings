@@ -1,0 +1,5 @@
+{
+  "enable_live_count": true,
+  "whitelist_syntaxes": ["MD","MARKDOWN"],
+  "blacklist_syntaxes": []
+}
